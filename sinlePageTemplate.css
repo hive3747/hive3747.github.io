@@ -23,7 +23,7 @@ header {
 	width: 100%;
 	height: 5%;
 	background-color: #F9A602;
-	border-bottom: 1px solid #2C9AB7;
+	border-bottom: 1px solid #F9A602;
 }
 .logo {
 	color: #fff;
@@ -60,7 +60,7 @@ ul li a {
 	text-decoration: none;
 }
 ul li:hover a {
-	color: #2C9AB7;
+	color: #F9A602;
 }
 .hero_header {
 	color: #BFBBAF;
@@ -138,7 +138,7 @@ ul li:hover a {
 	margin-right: 5px;
 	margin-bottom: 5px;
 	margin-left: 5px;
-	color: #52BAD5;
+	color: #F9A602;
 }
 .gallery .thumbnail p {
 	margin-top: 0px;
@@ -149,7 +149,7 @@ ul li:hover a {
 }
 /* Parallax Section */
 .banner {
-	background-color: #2D9AB7;
+	background-color: #F9A602;
 	background-image: url(../images/parallax.png);
 	height: 400px;
 	background-attachment: fixed;
